@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/   
+
+  - title: "Teaching"
+    url: /teaching/    
+        
+  - title: "Contact"
+    url: /contact/
+    
+  - title: "Chinese/中文"
+    url: /cv/
+    

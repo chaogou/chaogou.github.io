@@ -23,7 +23,7 @@ interaction, medical image analysis, autonomous driving and automatic scene perc
 Updates
 =====
 * <font color="#dd0000">We have intern, full-time research, Ph.D and Master student positions recently. If you are interested please send your CV to me.</font>
-* One paper is accepted by ACMMM 2020 and wins the Best Student Paper award. Congratuations to Wenbo Zheng and Lan Yan.
+* One paper is accepted by ACMMM 2020 and wins the <font color="#dd0000">Best Student Paper</font> award. Congratuations to Wenbo Zheng and Lan Yan.
 * One paper is accepted by ICIP 2020.
 * One paper is accepted by CVPR 2020.
 * One paper is accepted by IJCAI 2020.

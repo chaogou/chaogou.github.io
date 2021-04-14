@@ -10,6 +10,9 @@ author_profile: false
 
 Journal
 ======
+* Zheng, W., Yan, L., Gou, C., & Wang, F. Y. (2021). KM4: Visual reasoning via Knowledge Embedding Memory Model with Mutual Modulation. Information Fusion, 67, 14-28.
+* Yan, L., Zheng, W., Wang, F. Y., & Gou, C.* (2021). Joint image-to-image translation with denoising using enhanced generative adversarial networks. Signal Processing: Image Communication, 91, 116072.
+* Shen, T., Hao, K., Gou, C.*, & Wang, F. Y. (2021). Mass Image Synthesis in Mammogram with Contextual Information Based on GANs. Computer Methods and Programs in Biomedicine, 202, 106019.
 * Shen, T., Wang, J., Gou, C.*, & Wang, F. Y. (2020). Hierarchical Fused Model With Deep Learning and Type-2 Fuzzy Learning for Breast Cancer Diagnosis. IEEE Transactions on Fuzzy Systems, 28(12), 3204-3218.
 * Gou, C.*, Ji, Q., Coupled cascade regression from real and synthesized faces for simultaneous landmark detection and head pose estimation. Journal of Electronic Imaging. 2020 Apr;29(2):023028.
 * Zheng, W., Gou, C. and Wang, F.Y.*, 2020. A novel approach inspired by optic nerve characteristics for few-shot occluded face recognition. Neurocomputing, 376, pp.25-41.
@@ -27,10 +30,11 @@ Journal
 
 Conference
 ======
-* Zheng, W., Yan, L., Wang, F. Y., & Gou, C.* (2020, October). Learning from the Past: Meta-Continual Learning with Knowledge Embedding for Jointly Sketch, Cartoon, and Caricature Face Recognition. In Proceedings of the 28th ACM International Conference on Multimedia (ACMMM) (pp. 736-743).
+* Zheng, W., Yan, L., Wang, F. Y., & Gou, C.* (2021, June). Learning from the Negativity: Deep Negative Correlation Meta-Learning for Adversarial Image Classification. In International Conference on Multimedia Modeling (pp. 531-540). Springer, Cham.
 * Zheng, W., Yan, L., Gou, C.*, & Wang, F. Y. (2020, July). Graph Attention Model Embedded With Multi-Modal Knowledge For Depression Detection. In 2020 IEEE International Conference on Multimedia and Expo (ICME) (pp. 1-6). IEEE.
 * Yan, L., Zheng, W., Gou, C.*, & Wang, F. Y. (2020, October). Feature Aggregation Attention Network for Single Image Dehazing. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 923-927). IEEE.
 * W Zheng, C Gou*, L Yan, S Mo,"Learning to Classify: A Flow-Based Relation Network for Encrypted Traffic Classification", Proceedings of The Web Conference 2020, 13-22
+* Zheng, W., Yan, L., Wang, F. Y., & Gou, C.* (2020, October). Learning from the Past: Meta-Continual Learning with Knowledge Embedding for Jointly Sketch, Cartoon, and Caricature Face Recognition. In Proceedings of the 28th ACM International Conference on Multimedia (ACMMM) (pp. 736-743).
 * W Zheng, C Gou*, L Yan, and F.Y. Wang,"Webly Supervised Knowledge Embedding Model for Visual Reasoning." In 2020IEEE Conference on Computer Vision and Pattern Recognition,2020.
 * Gou, C., Wu, Y., Wang, F.Y. and Ji, Q., 2017, September. Coupled cascade regression for simultaneous facial landmark detection and head pose estimation. In 2017 IEEE International Conference on Image Processing (ICIP) (pp. 2906-2910). IEEE.
 * Zheng, W., Gou, C*. and Yan, L., 2019, November. Forest Representation Learning with Multiscale Contour Feature Learning for Leaf Cultivar Classification. In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 774-777). IEEE.

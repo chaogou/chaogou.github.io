@@ -7,43 +7,28 @@ author_profile: false
 ---
 
 {% include base_path %}
+Selected publications：
 
 Journal
 ======
-* Zheng, W., Yan, L., Gou, C., & Wang, F. Y. (2021). KM4: Visual reasoning via Knowledge Embedding Memory Model with Mutual Modulation. Information Fusion, 67, 14-28.
-* Yan, L., Zheng, W., Wang, F. Y., & Gou, C.* (2021). Joint image-to-image translation with denoising using enhanced generative adversarial networks. Signal Processing: Image Communication, 91, 116072.
-* Shen, T., Hao, K., Gou, C.*, & Wang, F. Y. (2021). Mass Image Synthesis in Mammogram with Contextual Information Based on GANs. Computer Methods and Programs in Biomedicine, 202, 106019.
-* Shen, T., Wang, J., Gou, C.*, & Wang, F. Y. (2020). Hierarchical Fused Model With Deep Learning and Type-2 Fuzzy Learning for Breast Cancer Diagnosis. IEEE Transactions on Fuzzy Systems, 28(12), 3204-3218.
-* Gou, C.*, Ji, Q., Coupled cascade regression from real and synthesized faces for simultaneous landmark detection and head pose estimation. Journal of Electronic Imaging. 2020 Apr;29(2):023028.
-* Zheng, W., Gou, C. and Wang, F.Y.*, 2020. A novel approach inspired by optic nerve characteristics for few-shot occluded face recognition. Neurocomputing, 376, pp.25-41.
-* Shen, T., Gou, C.*, Wang, J. and Wang, F., 2020. Simultaneous Segmentation and Classification of Mass Region from Mammograms Using a Mixed-Supervision Guided Deep Model. IEEE Signal Processing Letters.
-* Gou, C.*, Zhang, H., Wang, K., Wang, F.Y. and Ji, Q., 2019. Cascade learning from adversarial synthetic images for accurate pupil detection. Pattern Recognition, 88, pp.584-594.
-* Shen, T., Gou, C.*, Wang, F.Y., He, Z. and Chen, W., 2019. Learning from adversarial medical images for X-ray breast mass segmentation. Computer methods and programs in biomedicine, 180, p.105012.
-* Gou, C., Wang, K.*, Yao, Y. and Li, Z., 2015. Vehicle license plate recognition based on extremal regions and restricted Boltzmann machines. IEEE Transactions on Intelligent Transportation Systems, 17(4), pp.1096-1107.
-* Wang, K., Gou, C., Duan, Y., Lin, Y., Zheng, X. and Wang, F.Y., 2017. Generative adversarial networks: introduction and outlook. IEEE/CAA Journal of Automatica Sinica, 4(4), pp.588-598.
-* Zhang, H., Wang, K., Tian, Y., Gou, C. and Wang, F.Y., 2018. MFR-CNN: Incorporating multi-scale features and global information for traffic object detection. IEEE Transactions on Vehicular Technology, 67(9), pp.8019-8030.
-* Gou, C.*, Wu, Y., Wang, K., Wang, K., Wang, F.Y. and Ji, Q., 2017. A joint cascaded framework for simultaneous eye detection and eye state estimation. Pattern Recognition, 67, pp.23-31.
-* Wang, K., Gou, C., Zheng, N., Rehg, J.M. and Wang, F.Y., 2017. Parallel vision for perception and understanding of complex scenes: methods, framework, and perspectives. Artificial Intelligence Review, 48(3), pp.299-329.
-* Wang, K., Liu, Y., Gou, C. and Wang, F.Y., 2015. A multi-view learning approach to foreground detection for traffic surveillance applications. IEEE Transactions on Vehicular Technology, 65(6), pp.4144-4158.
-* Tian, B., Morris, B.T., Tang, M., Liu, Y., Yao, Y., Gou, C., Shen, D. and Tang, S., 2014. Hierarchical and networked vehicle surveillance in ITS: a survey. IEEE transactions on intelligent transportation systems, 16(2), pp.557-580.
-
+* [1].	Yan, L., Zheng, W., Gou, C.*, et al. "IPGAN: Identity-Preservation Generative Adversarial Network for unsupervised photo-to-caricature translation." Knowledge-Based Systems (2022): 108223. (IF 8.038) 
+* [2].	Shen, T., Wang, J., Gou, C.*, et al.  "Hierarchical fused model with deep learning and type-2 fuzzy learning for breast cancer diagnosis." IEEE Transactions on Fuzzy Systems 28, no. 12 : 3204-3218. (IF 12.029)
+* [3].	Gou, C.*, et al. " Cascade Learning From Adversarial Synthetic Images for Accurate Pupil Detection. " Pattern Recognition(PR), 2019, 88,584-594. (IF 7.740) 
+* [4].  Cai, M., Zhang, Z., Xiong, C.*,Gou, C. (2021). An Adaptive Staying Point Recognition Algorithm Based on Spatiotemporal Characteristics Using Cellular Signaling Data. IEEE Transactions on Intelligent Transportation Systems.( IF 6.492) 
+* [5].	Gou, C.*, et al."A Joint Cascaded Framework for Simultaneous Eye Detection and Eye State Estimation",  Pattern Recognition, 2017, 67, 23-31. (IF 7.740)
+* [6].	Gou, C., et al. "Vehicle License Plate Recognition Based on Extremal Regions and Restricted Boltzmann Machines." IEEE Transactions on Intelligent Transportation Systems (TITS), 17(4), 1096-1107. ( IF 6.492) 
+* [7].	Yan, L., Zheng, W., Gou, C.*, et al. "IsGAN: Identity-sensitive generative adversarial network for face photo-sketch synthesis." Pattern Recognition 119 (2021): 108077. (IF 7.740)
+* [8].	Shen, T., Gou, C.*, et al. " Learning form adversarial medical images for X-ray breast mass segmentation. " Computer Methods and Programs in Biomedicine. (IF 5.428) 
+* [9].  Zheng, W., Yan, L., Gou, C., et al. " Meta-learning meets the Internet of Things: Graph prototypical models for sensor-based human activity recognition". Information Fusion(2022):, 80, 1-22. (IF 12.975) 
+* [10].	Xiao, Y., Xu, J., Chraibi, M., Zhang, J., & Gou, C. *. "A generalized trajectories-based evaluation approach for pedestrian evacuation models." Safety science (2022)147: 105574. (IF 4.877)
+* [11]. 苟超, 卓莹, 王康, 王飞跃. 眼动跟踪研究进展与展望. 自动化学报, 2022, 48(5): 1173−1192 
 
 Conference
 ======
-* Zheng, W., Yan, L., Wang, F. Y., & Gou, C.* (2021, June). Learning from the Negativity: Deep Negative Correlation Meta-Learning for Adversarial Image Classification. In International Conference on Multimedia Modeling (pp. 531-540). Springer, Cham.
-* Zheng, W., Yan, L., Gou, C.*, & Wang, F. Y. (2020, July). Graph Attention Model Embedded With Multi-Modal Knowledge For Depression Detection. In 2020 IEEE International Conference on Multimedia and Expo (ICME) (pp. 1-6). IEEE.
-* Yan, L., Zheng, W., Gou, C.*, & Wang, F. Y. (2020, October). Feature Aggregation Attention Network for Single Image Dehazing. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 923-927). IEEE.
-* W Zheng, C Gou*, L Yan, S Mo,"Learning to Classify: A Flow-Based Relation Network for Encrypted Traffic Classification", Proceedings of The Web Conference 2020, 13-22
-* Zheng, W., Yan, L., Wang, F. Y., & Gou, C.* (2020, October). Learning from the Past: Meta-Continual Learning with Knowledge Embedding for Jointly Sketch, Cartoon, and Caricature Face Recognition. In Proceedings of the 28th ACM International Conference on Multimedia (ACMMM) (pp. 736-743).
-* W Zheng, C Gou*, L Yan, and F.Y. Wang,"Webly Supervised Knowledge Embedding Model for Visual Reasoning." In 2020IEEE Conference on Computer Vision and Pattern Recognition,2020.
-* Gou, C., Wu, Y., Wang, F.Y. and Ji, Q., 2017, September. Coupled cascade regression for simultaneous facial landmark detection and head pose estimation. In 2017 IEEE International Conference on Image Processing (ICIP) (pp. 2906-2910). IEEE.
-* Zheng, W., Gou, C*. and Yan, L., 2019, November. Forest Representation Learning with Multiscale Contour Feature Learning for Leaf Cultivar Classification. In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 774-777). IEEE.
-* Zheng, W., Yan, L., Gou, C.*, Zhang, W. and Wang, F.Y., 2019, July. A Relation Network Embedded with Prior Features for Few-Shot Caricature Recognition. In 2019 IEEE International Conference on Multimedia and Expo (ICME) (pp. 1510-1515). IEEE.
-* Cao, L.#, Gou, C.#, Wang, K., Xiong, G. and Wang, F.Y., 2018, August. Gaze-Aided Eye Detection via Appearance Learning. In 2018 24th International Conference on Pattern Recognition (ICPR) (pp. 1965-1970). IEEE.
-* Zheng, W., Gou, C*., Yan, L. and Wang, F.Y., 2019. Differential-Evolution-Based Generative Adversarial Networks for Edge Detection. In Proceedings of the IEEE International Conference on Computer Vision.
-* Wu, Y., Gou, C. and Ji, Q., 2017. Simultaneous facial landmark detection, pose and deformation estimation under facial occlusion. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3471-3480).
-* Gou, C., Wu, Y., Wang, K., Wang, F.Y. and Ji, Q., 2016, December. Learning-by-synthesis for accurate eye detection. In 2016 23rd international conference on pattern recognition (ICPR) (pp. 3362-3367). IEEE.
-* Gou, C., Wu, Y., Wang, F.Y. and Ji, Q., 2016, October. Shape augmented regression for 3d face alignment. In European Conference on Computer Vision (ECCV, pp. 604-615). Springer, Cham.
-* Gou, C., Wang, K., Li, B. and Wang, F.Y., 2014, October. Vehicle license plate recognition based on class-specific ERs and SaE-ELM. In 17th International IEEE Conference on Intelligent Transportation Systems (ITSC) (pp. 2956-2961). IEEE.
+* [1].	Zheng, W., Yan, L., Wang, F. Y., & Gou, C.*. "Learning from the past: Meta-continual learning with knowledge embedding for jointly sketch, cartoon, and caricature face recognition." In Proceedings of the 28th ACM International Conference on Multimedia, pp. 736-743. 2020.(ACMMM)
+* [2].	Gou, C. *, et al.  "Shape augmented regression for 3D face alignment." In European Conference on Computer Vision, pp. 604-615. Springer, Cham, (ECCV)
+* [3].	Zheng, W., Yan, L., Gou, C., et al. 2021, July. Two heads are better than one: Hypergraph-enhanced graph reasoning for visual event ratiocination. In International Conference on Machine Learning (pp. 12747-12760). 2021(ICML)
+* [4].	Yan, L., Zheng, W., Wang, F. Y., & Gou, C.*. "Weakly Supervised Sketch Based Person Search." In Proceedings of the 2021 International Conference on Multimedia Retrieval, pp. 491-495. 2021. (ICMR)
+* [5].	Zheng, W., Yan, L., Gou, C. *, et al. " Webly Supervised Knowledge Embedding Model for Visual Reasoning." In 2020 IEEE Conference on Computer Vision and Pattern Recognition.(CVPR)
 
 You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en)

@@ -20,6 +20,7 @@ interaction, medical image analysis, autonomous driving and automatic scene perc
 Updates
 =====
 * <font color="#dd0000">We have intern, full-time research, Ph.D and Master student positions recently. If you are interested please send your CV to me.</font>
+* We have been the winner of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022, and were invited to give a [presentation](https://www.youtube.com/watch?v=KK3SPK6iueE) about the solution for scene graph generation.
 * One paper is accepted by IEEE Transactions on Intelligent Vehicles 2022
 * One paper is accepted by Knowledge-Based Systems 2022
 * One paper is accepted by Pattern Recognition 2022
@@ -31,7 +32,5 @@ Updates
 * One paper is accepted by IJCAI 2020.
 * One paper is accepted by WWW 2020.
 * One paper is accepted by ECAI 2020.
-* One paper is accepted by ICCV 2019.
-* One paper is accepted by ICME 2019.
 
 

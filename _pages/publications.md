@@ -22,7 +22,8 @@ Selected publications：
 * [11]. Xiao, Y., Xu, J., Chraibi, M., Zhang, J., & Gou, C. *. "A generalized trajectories-based evaluation approach for pedestrian evacuation models." Safety science  (2022)147: 105574. 
 * [12].	Zhou, Y., Tan, G., Zhong, R., Li, Y., Gou, C.* PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems (TITS), early access, 2023 
 * [13].	Gou, C., Zhong, R. and Yu, Y. MAL-Net: Multiscale Attention Link Network for accurate eye center detection. Computer Vision and Image Understanding, 2023, p.103750.
-* [14].	Zhou, Y., Tan, G., Li, M., Gou, C.*  Learning from Easy to Hard Pair: Multi-step Reasoning Network for Human-Object Interaction Detection, In Proceedings of the  ACM International Conference on Multimedia, early access, 2023 
+* [14].	Zhou Y, Tan G, Li M, Gou C.* Learning from easy to hard pairs: Multi-step reasoning network for human-object interaction detection. InProceedings of the 31st ACM International Conference on Multimedia 2023 Oct 26 (pp. 4368-4377).
 * [15].	Gou, C., Zhou, Y., Xiao, Y., Wang, X. and Yu, H., Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles, 8(1), 2023, pp.404-412. 
+* [16].	Li Y, Tan G, Gou C.*  Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose. International Journal of Computer Vision. 2023 Nov 6:1-16.
 
 You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en)

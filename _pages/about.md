@@ -21,12 +21,13 @@ Updates
 =====
 * <font color="#dd0000">We have intern, full-time research, Ph.D and Master student positions recently. If you are interested please send your CV to me.</font>
 * 2023.11 One paper is accepted by International Journal of Computer Vision 
+* 2023.11 We have been the [winner(1st)](https://sites.google.com/view/road-r/winners) of ROAD-R(the Road Event Detection with Requirements) challenge for Neurips2023.
 * 2023.11 One paper is accepted by  IEEE Transactions on Instrumentation and Measurement 
 * 2023.09 One paper is accepted by IEEE Transactions on Intelligent Transportation Systems 2023
 * 2023.08 One paper is accepted by IEEE Transactions on Intelligent Vehicles 2023
 * 2023.07 One paper is accepted by ACMMM 2023
 * 2023.06 One paper is accepted by Computer Vision and Image Understanding 2023
-* We have been the winner of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022, and were invited to give a [presentation](https://www.youtube.com/watch?v=KK3SPK6iueE) about the solution for scene graph generation.
+* We have been the winner(1st) of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022, and were invited to give a [presentation](https://www.youtube.com/watch?v=KK3SPK6iueE) about the solution for scene graph generation.
 * One paper is accepted by IEEE Transactions on Intelligent Vehicles 2022
 * One paper is accepted by Knowledge-Based Systems 2022
 * One paper is accepted by Pattern Recognition 2022

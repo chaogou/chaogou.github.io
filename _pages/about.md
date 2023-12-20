@@ -20,6 +20,7 @@ interaction, medical image analysis, autonomous driving and automatic scene perc
 Updates
 =====
 * <font color="#dd0000">We have intern, full-time research, Ph.D and Master student positions recently. If you are interested please send your CV to me.</font>
+* 2023.12 Three papers are accepted by ICASSP 2024 
 * 2023.11 One paper is accepted by International Journal of Computer Vision 
 * 2023.11 We have been the [winner(1st)](https://sites.google.com/view/road-r/winners) of ROAD-R(the Road Event Detection with Requirements) challenge for Neurips2023.
 * 2023.11 One paper is accepted by  IEEE Transactions on Instrumentation and Measurement 

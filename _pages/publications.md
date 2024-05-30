@@ -25,5 +25,6 @@ Selected publications：
 * [14].	Zhou Y, Tan G, Li M, Gou C.* Learning from easy to hard pairs: Multi-step reasoning network for human-object interaction detection. InProceedings of the 31st ACM International Conference on Multimedia 2023 Oct 26 (pp. 4368-4377).
 * [15].	Gou, C., Zhou, Y., Xiao, Y., Wang, X. and Yu, H., Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles, 8(1), 2023, pp.404-412. 
 * [16].	Li Y, Tan G, Gou C.*  Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose. International Journal of Computer Vision. 2023 Nov 6:1-16.
+* [17]. Zhou, Y., Liu, L., Gou, C.* " Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition." In 2024 IEEE Conference on Computer Vision and Pattern Recognition.(CVPR)
 
 You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en)

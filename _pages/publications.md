@@ -21,10 +21,9 @@ Selected publications：
 * [10]. 苟超, 卓莹, 王康, 王飞跃. 眼动跟踪研究进展与展望. 自动化学报, 2022, 48(5): 1173−1192 
 * [11]. Xiao, Y., Xu, J., Chraibi, M., Zhang, J., & Gou, C. *. "A generalized trajectories-based evaluation approach for pedestrian evacuation models." Safety science  (2022)147: 105574. 
 * [12].	Zhou, Y., Tan, G., Zhong, R., Li, Y., Gou, C.* PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems (TITS), early access, 2023 
-* [13].	Gou, C., Zhong, R. and Yu, Y. MAL-Net: Multiscale Attention Link Network for accurate eye center detection. Computer Vision and Image Understanding, 2023, p.103750.
-* [14].	Zhou Y, Tan G, Li M, Gou C.* Learning from easy to hard pairs: Multi-step reasoning network for human-object interaction detection. InProceedings of the 31st ACM International Conference on Multimedia 2023 Oct 26 (pp. 4368-4377).
-* [15].	Gou, C., Zhou, Y., Xiao, Y., Wang, X. and Yu, H., Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles, 8(1), 2023, pp.404-412. 
-* [16].	Li Y, Tan G, Gou C.*  Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose. International Journal of Computer Vision. 2023 Nov 6:1-16.
-* [17]. Zhou, Y., Liu, L., Gou, C.* " Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition." In 2024 IEEE Conference on Computer Vision and Pattern Recognition.(CVPR)
+* [13].	Zhou Y, Tan G, Li M, Gou C.* Learning from easy to hard pairs: Multi-step reasoning network for human-object interaction detection. InProceedings of the 31st ACM International Conference on Multimedia 2023 Oct 26 (pp. 4368-4377).
+* [14].	Gou, C., Zhou, Y., Xiao, Y., Wang, X. and Yu, H., Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles, 8(1), 2023, pp.404-412. 
+* [15].	Li Y, Tan G, Gou C.*  Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose. International Journal of Computer Vision. 2023 Nov 6:1-16.
+* [16]. Zhou, Y., Liu, L., Gou, C.* " Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition." In 2024 IEEE Conference on Computer Vision and Pattern Recognition.(CVPR)
 
 You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=_0ad79AAAAAJ&hl=en)

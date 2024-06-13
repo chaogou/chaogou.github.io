@@ -78,6 +78,9 @@ redirect_from:
 招生名额： 每年硕士2-3名，博士1-2名，欢迎联系报读硕士、博士、直博。
 
 
+<font color="#dd0000">中山大学智能工程学院**交通学科**全国优秀大学生暑期夏令营已开始报名，对我们研究方向感兴趣请关注暑期夏令营 [https://ise.sysu.edu.cn/notice/1416128.htm](https://ise.sysu.edu.cn/notice/1416128.htm) .</font>
+
+
 联系方式
 ======
 电子邮箱：gouchao AT mail DOT sysu DOT edu DOT cn

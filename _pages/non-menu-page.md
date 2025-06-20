@@ -1,14 +1,14 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
+title: "写给希望到本组读研、读博、直博或进组的本科同学"
 excerpt: "This is a page not in th emain menu"
-author_profile: true
+author_profile: false
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
+
 ---
 
-This is a page not in the menu. You can use markdown in this page.
 
 Heading 1
 ======

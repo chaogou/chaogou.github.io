@@ -20,6 +20,8 @@ interaction, medical image analysis, autonomous driving and automatic scene perc
 Updates
 =====
 * <font color="#dd0000">We have intern, full-time research, Ph.D and Master student positions recently. If you are interested please send your CV to me.</font>
+* 2025.05 One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology 2025.
+* 2025.03 One paper is accepted by ICME 2025.
 * 2024.09 One paper is accepted by IEEE Intelligent Transportation Systems Magazine 2024.
 * 2024.07 One paper is accepted by Pattern Recognition 2024.
 * 2024.06 two papers are accepted by PRCV 2024.

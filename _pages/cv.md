@@ -55,7 +55,7 @@ redirect_from:
 ======
 
 
-[发表论文](https://chaogou.github.io/publications/) 
+相关论文请查看[发表论文](https://chaogou.github.io/publications/) 
 
   
 荣誉获奖情况
@@ -83,8 +83,8 @@ redirect_from:
 * 2018, 28th  IEEE Intelligent Vehicle Symposium, Student Activity Co-Chair
 * T-PAMI,T-NNLS, IJCV, T-ITS, TIP, NeurlPS, CVPR,ICCV,自动化学报,计算机学报等审稿人
 
-研究生招生
 
+研究生招生
 ======
 请申请进组的本校本科生或申请读研、读博的同学先阅读这个[文档](https://chaogou.github.io/non-menu-page/) 
 

@@ -20,7 +20,13 @@ interaction, medical image analysis, autonomous driving and automatic scene perc
 Updates
 =====
 * <font color="#dd0000">We have intern, full-time research, Ph.D and Master student positions recently. If you are interested please send your CV to me.</font>
-* 2025.06 One paper is accepted by ICCV 2025.
+* 2026.3 one paper is accepted by IEEE Transactions on Intelligent Transportation Systems 2026.
+* 2026.2 one paper is accepted by Pattern Recognition 2026.
+* 2026.1 Two papers are accepted by ICASSP 2026.
+* 2025.12 One paper is accepted by IEEE Transactions on Intelligent Transportation Systems.
+* 2025.11 One paper is accepted by AAAI 2026(Oral).
+* 2025.09 One paper is accepted by NeurIPS 2025(Spotlight, top 3%).
+* 2025.06 One paper is accepted by ICCV 2025((Highlight, top 3%)).
 * 2025.05 One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology 2025.
 * 2025.03 One paper is accepted by ICME 2025.
 * 2024.09 One paper is accepted by IEEE Intelligent Transportation Systems Magazine 2024.

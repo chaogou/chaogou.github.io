@@ -86,7 +86,7 @@ redirect_from:
 
 研究生招生
 ======
-请申请读研、读博的同学或者申请进组的本校本科同学先阅读这个[文档](https://chaogou.github.io/non-menu-page/) 
+请申请博士后、读研、读博的同学或者申请进组的本校本科同学先阅读这个[文档](https://chaogou.github.io/non-menu-page/) 
 
 联系方式
 ======

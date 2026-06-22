@@ -20,6 +20,7 @@ interaction, medical image analysis, autonomous driving and automatic scene perc
 Updates
 =====
 * <font color="#dd0000">We have intern, full-time research, Ph.D and Master student positions recently. If you are interested please send your CV to me.</font>
+* 2026.5 one paper is accepted by IJCAI 2026.
 * 2026.3 one paper is accepted by IEEE Transactions on Intelligent Transportation Systems 2026.
 * 2026.2 one paper is accepted by Pattern Recognition 2026.
 * 2026.1 Two papers are accepted by ICASSP 2026.

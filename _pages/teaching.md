@@ -7,5 +7,6 @@ author_profile: false
 ---
 
 * Pattern Recognition 
-* Principle of Database
+* Programming Languages for Artificial Intelligence(Python)
 * Pattern Recognition and Machine Learning
+* Principle of Database
